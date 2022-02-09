@@ -9,3 +9,5 @@ etd-sdk-generator/yarn.lock
 sdk-dist/kotlin/src/main/kotlin/Main.kt
 docs/js/*.md
 docs/kotlin/*.md
+temp_auto_push.bat
+temp_interactive_push.bat
